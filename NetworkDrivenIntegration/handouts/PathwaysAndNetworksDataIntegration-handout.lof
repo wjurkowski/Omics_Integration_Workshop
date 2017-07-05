@@ -1,0 +1,12 @@
+\contentsline {figure}{\numberline {1}{\ignorespaces Example of expression data with samples across the columns and individual genes down the rows.\relax }}{3}{figure.caption.4}
+\contentsline {figure}{\numberline {2}{\ignorespaces Two distributions with the same mean but different variance.\relax }}{5}{figure.caption.8}
+\contentsline {figure}{\numberline {3}{\ignorespaces Examples of correlation\relax }}{6}{figure.caption.9}
+\contentsline {figure}{\numberline {4}{\ignorespaces Example of a coordinate transform\relax }}{7}{figure.caption.12}
+\contentsline {figure}{\numberline {5}{\ignorespaces Plot: in (a) shows the expression of two genes, (b) the expression of the same two genes after centering the data (expression has zero mean), (c) gene expression is plot in the new coordiantes (PCA)\relax }}{9}{figure.caption.16}
+\contentsline {figure}{\numberline {6}{\ignorespaces The first two principal components for gene expression data in a study on Fatty Liver. The plot was generated using the R package ggbiplot \cite {Vu2016}\relax }}{13}{figure.caption.18}
+\contentsline {figure}{\numberline {7}{\ignorespaces The first three principal components for gene expression data in a study on Fatty Liver \cite {Wruck2015}. Note: the plot was generated using MATLAB, can you plot the three components in R\relax }}{14}{figure.caption.21}
+\contentsline {figure}{\numberline {8}{\ignorespaces Example of hierarchical clustering using the MATLAB function clustergram\relax }}{15}{figure.caption.24}
+\contentsline {figure}{\numberline {9}{\ignorespaces Query of gene using PSICQUIC web interface\relax }}{18}{figure.caption.29}
+\contentsline {figure}{\numberline {10}{\ignorespaces Result of the interactions found for search term in PSICQUIC\relax }}{19}{figure.caption.30}
+\contentsline {figure}{\numberline {11}{\ignorespaces Customising view of results provided by PSICQUIC\relax }}{19}{figure.caption.31}
+\contentsline {figure}{\numberline {12}{\ignorespaces Example of output file for feature selection\relax }}{26}{figure.caption.43}
